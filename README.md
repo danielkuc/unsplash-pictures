@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Project title and description
+Unsplash picture finder. An app displaying 10 pictures from Unsplash API using a search bar.
+# Build status
+finished.
+## Tech/framework used
+React, unsplash API, axios.
+## How to use
+Input a search term into the search bar and press Enter. Initial serch term set to 'cats';
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
